@@ -1,4 +1,4 @@
-# cob1e464fad47f96ee30b2583
+# Arsenal Win Counter App
 
 Quick start:
 
